@@ -6,7 +6,7 @@ Este proyecto es una aplicación web de blog diseñada para permitir a los usuar
 ## Demostración
 Para ver la aplicación en acción, mira el siguiente video en YouTube: [Ver Video](https://youtu.be/fgRtcujygo4?si=XL27YuuxaubeOv4x)
 
-También puedes probar la aplicación web directamente aquí: [Probar Aplicación](https://probandoproyecto23.pythonanywhere.com/)
+También puedes probar la aplicación web directamente aquí: [Probar Aplicación](https://cotanol.pythonanywhere.com/)
 
 ## Modelos Principales
 Los modelos principales utilizados en este proyecto incluyen:
