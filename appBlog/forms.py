@@ -15,6 +15,7 @@ class PublicacionForm(forms.ModelForm):
             'titulo': forms.TextInput(attrs={'class': 'background-white'}),
         }
         
+        
 class ComentarioForm(forms.ModelForm):
     class Meta:
         model = Comentario
